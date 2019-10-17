@@ -1,0 +1,10 @@
+C:\Users\drmsa\Desktop\AMO-YSA\AMOwithYSACode\bin\Debug\netcoreapp1.0\AMOwithYSACode.deps.json
+C:\Users\drmsa\Desktop\AMO-YSA\AMOwithYSACode\bin\Debug\netcoreapp1.0\AMOwithYSACode.runtimeconfig.json
+C:\Users\drmsa\Desktop\AMO-YSA\AMOwithYSACode\bin\Debug\netcoreapp1.0\AMOwithYSACode.runtimeconfig.dev.json
+C:\Users\drmsa\Desktop\AMO-YSA\AMOwithYSACode\bin\Debug\netcoreapp1.0\AMOwithYSACode.dll
+C:\Users\drmsa\Desktop\AMO-YSA\AMOwithYSACode\bin\Debug\netcoreapp1.0\AMOwithYSACode.pdb
+C:\Users\drmsa\Desktop\AMO-YSA\AMOwithYSACode\obj\Debug\netcoreapp1.0\AMOwithYSACode.csprojAssemblyReference.cache
+C:\Users\drmsa\Desktop\AMO-YSA\AMOwithYSACode\obj\Debug\netcoreapp1.0\AMOwithYSACode.csproj.CoreCompileInputs.cache
+C:\Users\drmsa\Desktop\AMO-YSA\AMOwithYSACode\obj\Debug\netcoreapp1.0\AMOwithYSACode.AssemblyInfo.cs
+C:\Users\drmsa\Desktop\AMO-YSA\AMOwithYSACode\obj\Debug\netcoreapp1.0\AMOwithYSACode.dll
+C:\Users\drmsa\Desktop\AMO-YSA\AMOwithYSACode\obj\Debug\netcoreapp1.0\AMOwithYSACode.pdb

@@ -1,0 +1,11 @@
+C:\Users\LENOVO\Desktop\Masaüstü\AMOwithYSACode\AMOwithYSACode\obj\Debug\netcoreapp2.1\AMOwithYSACode.csprojAssemblyReference.cache
+C:\Users\LENOVO\Desktop\Masaüstü\AMOwithYSACode\AMOwithYSACode\obj\Debug\netcoreapp2.1\AMOwithYSACode.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Desktop\Masaüstü\AMOwithYSACode\AMOwithYSACode\obj\Debug\netcoreapp2.1\AMOwithYSACode.AssemblyInfoInputs.cache
+C:\Users\LENOVO\Desktop\Masaüstü\AMOwithYSACode\AMOwithYSACode\obj\Debug\netcoreapp2.1\AMOwithYSACode.AssemblyInfo.cs
+C:\Users\LENOVO\Desktop\Masaüstü\AMOwithYSACode\AMOwithYSACode\bin\Debug\netcoreapp2.1\AMOwithYSACode.deps.json
+C:\Users\LENOVO\Desktop\Masaüstü\AMOwithYSACode\AMOwithYSACode\bin\Debug\netcoreapp2.1\AMOwithYSACode.runtimeconfig.json
+C:\Users\LENOVO\Desktop\Masaüstü\AMOwithYSACode\AMOwithYSACode\bin\Debug\netcoreapp2.1\AMOwithYSACode.runtimeconfig.dev.json
+C:\Users\LENOVO\Desktop\Masaüstü\AMOwithYSACode\AMOwithYSACode\bin\Debug\netcoreapp2.1\AMOwithYSACode.dll
+C:\Users\LENOVO\Desktop\Masaüstü\AMOwithYSACode\AMOwithYSACode\bin\Debug\netcoreapp2.1\AMOwithYSACode.pdb
+C:\Users\LENOVO\Desktop\Masaüstü\AMOwithYSACode\AMOwithYSACode\obj\Debug\netcoreapp2.1\AMOwithYSACode.dll
+C:\Users\LENOVO\Desktop\Masaüstü\AMOwithYSACode\AMOwithYSACode\obj\Debug\netcoreapp2.1\AMOwithYSACode.pdb
